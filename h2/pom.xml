@@ -48,7 +48,7 @@
     <pgjdbc.version>42.4.0</pgjdbc.version>
     <javax.servlet.version>4.0.1</javax.servlet.version>
     <jakarta.servlet.version>5.0.0</jakarta.servlet.version>
-    <slf4j.version>1.7.30</slf4j.version>
+    <slf4j.version>1.7.36</slf4j.version>
     <nashorn.version>15.4</nashorn.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.organization>0neand0nly</sonar.organization>
