@@ -51,6 +51,8 @@
     <slf4j.version>1.7.30</slf4j.version>
     <nashorn.version>15.4</nashorn.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.organization>0neand0nly</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencyManagement>
