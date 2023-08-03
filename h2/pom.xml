@@ -40,7 +40,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <asm.version>9.4</asm.version>
-    <jts.version>1.17.0</jts.version>
+    <jts.version>1.19.0</jts.version>
     <junit.version>5.6.2</junit.version>
     <lucene.version>8.5.2</lucene.version>
     <osgi.version>5.0.0</osgi.version>
@@ -51,6 +51,8 @@
     <slf4j.version>1.7.30</slf4j.version>
     <nashorn.version>15.4</nashorn.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.organization>0neand0nly</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencyManagement>
